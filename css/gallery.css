@@ -1,0 +1,33 @@
+#gallery {
+    /* background-color: pink; */
+}
+
+#gallery img{
+    max-height: 250px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#gallery img:hover{
+    opacity: 0.75;
+}
+
+/* Tablet */
+@media (max-width: 1000px) {  
+    #gallery img{
+        max-height: 300px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+  }
+
+
+/* Mobile */
+@media screen and (max-width: 600px) {
+    #gallery img{
+        margin-right: 0;
+        max-height: none;
+        margin-bottom: 5%;
+    }
+}
+

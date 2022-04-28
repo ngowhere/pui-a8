@@ -1,0 +1,49 @@
+
+
+.return{
+    vertical-align: bottom;
+    margin:0;
+    padding: 0;
+    line-height: 2em;
+    text-decoration: none;
+    color: gray;
+}
+
+.return a{
+    color: gray;
+}
+
+.return a:hover{
+    color: cornflowerblue;
+}
+
+#return-arrow{
+    max-width: 100px;
+    
+}
+
+#return-arrow a{
+    background-color: aqua;
+    margin-top: 100px;
+    line-height: 1em;
+    text-align: right;
+}
+
+#return-arrow p{
+    margin-top: 500px;
+    
+}
+
+#slide-info1{
+    padding-top: 2%;
+    background-color: lavender;
+}
+
+#slide-img{
+    max-height: 85vh;
+}
+
+#slide{
+    max-height: 100vh;
+    /* background-color: aquamarine; */
+}

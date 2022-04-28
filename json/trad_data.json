@@ -1,12 +1,22 @@
-
-
-[   
-    "{\"title\": \"celadon\", \"src\": \"imgs/trad/celadon.jpg\", \"description\": \"\", \"medium\": \"\"}", 
-    "{\"title\": \"magician\", \"src\": \"imgs/trad/magician.jpg\", \"description\": \"\", \"medium\": \"\"}",
-    "{\"title\": \"CutUpStars\", \"src\": \"imgs/trad/1_Ngo_CutUpStars.jpg\", \"description\": \"\", \"medium\": \"\"}",
-    "{\"title\": \"MemStreetGood\", \"src\": \"imgs/trad/MemStreetGood.jpg\", \"description\": \"\", \"medium\": \"\"}",
-    "{\"title\": \"ViewOfBullCreek\", \"src\": \"imgs/trad/2_Ngo_ViewOfBullCreek.jpg\", \"description\": \"\", \"medium\": \"\"}",
-    "{\"title\": \"haroldFinal\", \"src\": \"imgs/trad/haroldFinal.JPG\", \"description\": \"\", \"medium\": \"\"}",
-    "{\"title\": \"syndrome\", \"src\": \"imgs/trad/imposter_syndrome.JPG\", \"description\": \"\", \"medium\": \"\"}",
-    "{\"title\": \"musicboi2\", \"src\": \"imgs/trad/musicboi2.JPG\", \"description\": \"\", \"medium\": \"\"}"
-]
+[
+    "{\"title\": \"Relic of a Forgotten Saint - Left Leg Full\", \"src\": \"imgs/trad/leftLegFull.JPG\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Relic of a Forgotten Saint - Left Leg\", \"src\": \"imgs/trad/leftLeg.JPG\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Celadon\", \"src\": \"imgs/trad/celadon.jpg\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Relic of a Forgotten Saint - Full Body\", \"src\": \"imgs/trad/fullBody.JPG\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Relic of a Forgotten Saint - Spine and Ribs\", \"src\": \"imgs/trad/spingAndRibs.JPG\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"The Magician\", \"src\": \"imgs/trad/magician.jpg\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Cut Up Stars\", \"src\": \"imgs/trad/1_Ngo_CutUpStars.jpg\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Relic of a Forgotten Saint - Left Hand\", \"src\": \"imgs/trad/leftHand.JPG\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Fall Morning\", \"src\": \"imgs/trad/fallMorning.jpg\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Relic of a Forgotten Saint - Right Forearm\", \"src\": \"imgs/trad/rightForearm.jpg\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Memories of Street\", \"src\": \"imgs/trad/MemStreetGood.jpg\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"View of Bull Creek\", \"src\": \"imgs/trad/2_Ngo_ViewOfBullCreek.jpg\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"What Lies Beneath the Skin\", \"src\": \"imgs/trad/birdName.jpg\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Harold\", \"src\": \"imgs/trad/haroldFinal.JPG\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"How to Play the Piano\", \"src\": \"imgs/trad/ToPlayThePiano.JPG\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Imposter Syndrome\", \"src\": \"imgs/trad/imposter_syndrome.JPG\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Relic of a Forgotten Saint - Right Leg\", \"src\": \"imgs/trad/rightLeg.JPG\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Relic of a Forgotten Saint - Spine\", \"src\": \"imgs/trad/Spine.JPG\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Sweet Liar\", \"src\": \"imgs/trad/SweetLiarFinal.jpg\", \"description\": \"\", \"medium\": \"\"}",
+    "{\"title\": \"Nocturne\", \"src\": \"imgs/trad/musicboi2.JPG\", \"description\": \"\", \"medium\": \"\"}"
+ ]

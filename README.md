@@ -13,3 +13,5 @@ I planned to build myself a logo using p5.js; however, the way the iframe is dis
 1. Add digital art projects - I am passionate about art and code and I love procedural generation. My beetle project is just one example.
 2. Allow the users to switch between different viewing modes - traditional art, digital media, and all artwork. I have the javascript foundations in place and the html code ready to make it happen. However, I am running out of time and would like to focus on showcasing my current art work
 
+Note: There is a python file included to generate the JSON file used to store all artwork. It is a helper function for myself and is not called by the actual website. 
+
